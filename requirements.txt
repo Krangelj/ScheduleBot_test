@@ -1,0 +1,18 @@
+aiohttp==3.7.4.post0
+anyio==2.2.0
+APScheduler @ git+https://github.com/agronholm/apscheduler.git@d10f20215d8c78e9e2d32d634f276bb89f86ca38
+async-timeout==3.0.1
+attrs==20.3.0
+chardet==4.0.0
+discord==1.0.1
+discord.py==1.7.1
+idna==3.1
+multidict==5.1.0
+python-dotenv==0.17.0
+pytz==2021.1
+six==1.15.0
+sniffio==1.2.0
+typing-extensions==3.7.4.3
+tzdata==2021.1
+tzlocal==3.0b1
+yarl==1.6.3
